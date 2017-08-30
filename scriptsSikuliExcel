@@ -1,0 +1,180 @@
+click(Location(1148, 20))
+wait(0.2)
+click(Location(457, 283)) #click en el logo de filtar
+wait(1)
+click(Location(203, 630)) #localiza y deselecciona el filtro marcado con check
+wait(1)
+click(Location(202, 650)) #localiza el sigiente cost center a filtar
+wait(1)
+click(Location(316, 720)) #acepta los cambios en el filtro
+wait(1)
+rightClick(Location(401, 308)) #click derecho para copiar el campo de cost center
+wait(2)
+click(Location(482, 355)) #click izquierdo para copiar el cost center
+wait(2)
+click(Location(38, 63)) #hace click en File
+wait(2.5)
+click(Location(59, 283)) #click en Save As
+wait(2.5)
+click(Location(752, 218)) #click en el campo del nombre para seleccionar 
+type("COST CENTERS._")
+wait(1)
+rightClick(Location(738, 216))#click derecho para pegar
+wait (1.5)
+click(Location(685, 295)) #click izquierdo para pegar
+wait(0.5)
+click(Location(1269, 245)) #click en guardar 
+wait (3)
+rightClick(Location(1705, 306)) #hace click derecho en una casilla en blanco para copiar
+wait(2)
+click(Location(1597, 360)) #ejecuta el click en la casilla en blanco para copiar 
+wait(0.5)
+#-----------------------------------------------------------------------------------------------------------------------------------
+#Fin de Primera fase del script
+#-----------------------------------------------------------------------------------------------------------------------------------
+Location(455, 282)
+wait(0.2)
+click(Location(457, 283)) #click en el logo de filtar
+wait(1)
+click(Location(202, 651)) #localiza y deselecciona el filtro marcado con check
+wait(1)
+click(Location(200, 667)) #localiza el sigiente cost center a filtar
+wait(1)
+click(Location(316, 720)) #acepta los cambios en el filtro
+wait(1)
+rightClick(Location(401, 308)) #click derecho para copiar el campo de cost center
+wait(2)
+click(Location(482, 355)) #click izquierdo para copiar el cost center
+wait(2)
+click(Location(38, 63)) #hace click en File
+wait(2.5)
+click(Location(59, 283)) #click en Save As
+wait(2.5)
+click(Location(752, 218)) #click en el campo del nombre para seleccionar 
+wait(0.5)
+type("COST CENTERS._")
+wait(1)
+rightClick(Location(738, 216))#click derecho para pegar
+wait (1.5)
+click(Location(685, 295)) #click izquierdo para pegar
+wait(0.5)
+click(Location(1269, 245)) #click en guardar 
+wait (3)
+rightClick(Location(1705, 306)) #hace click derecho en una casilla en blanco para copiar
+wait(2)
+click(Location(1597, 360)) #ejecuta el click en la casilla en blanco para copiar 
+wait(0.5)
+#-----------------------------------------------------------------------------------------------------------------------------------
+#Fin de segunda fase del script
+#-----------------------------------------------------------------------------------------------------------------------------------
+Location(455, 282)
+wait(0.2)
+click(Location(457, 283)) #click en el logo de filtar
+wait(1)
+click(Location(205, 671)) #localiza y deselecciona el filtro marcado con check
+wait(1)
+click(Location(450, 672)) #baja 1 click scrolldown
+wait(1)
+click(Location(203, 667)) #localiza el sigiente cost center a filtar
+wait(1)
+click(Location(316, 720)) #acepta los cambios en el filtro
+wait(2)
+rightClick(Location(401, 308)) #click derecho para copiar el campo de cost center
+wait(2)
+click(Location(482, 355)) #click izquierdo para copiar el cost center
+wait(2)
+click(Location(38, 63)) #hace click en File
+wait(2)
+click(Location(59, 283)) #click en Save As
+wait(2)
+click(Location(752, 218)) #click en el campo del nombre para seleccionar 
+wait(0.5)
+type("COST CENTERS._")
+wait(0.5)
+rightClick(Location(738, 216))#click derecho para pegar
+wait (2)
+click(Location(685, 295)) #click izquierdo para pegar
+wait(1)
+click(Location(1269, 245)) #click en guardar 
+wait (3)
+rightClick(Location(1705, 306)) #hace click derecho en una casilla en blanco para copiar
+wait(2)
+click(Location(1597, 360)) #ejecuta el click en la casilla en blanco para copiar 
+wait(0.5)
+#-----------------------------------------------------------------------------------------------------------------------------------
+#fin de tercera fase del script
+#-----------------------------------------------------------------------------------------------------------------------------------
+Location(455, 282)
+wait(0.2)
+click(Location(457, 283)) #click en el logo de filtar
+wait(1)
+click(Location(205, 671)) #localiza y deselecciona el filtro marcado con check
+wait(1)
+click(Location(450, 672)) #baja 1 click scrolldown
+wait(1)
+click(Location(203, 667)) #localiza el sigiente cost center a filtar
+wait(1)
+click(Location(316, 720)) #acepta los cambios en el filtro
+wait(2)
+rightClick(Location(401, 308)) #click derecho para copiar el campo de cost center
+wait(2)
+click(Location(482, 355)) #click izquierdo para copiar el cost center
+wait(2)
+click(Location(38, 63)) #hace click en File
+wait(2)
+click(Location(59, 283)) #click en Save As
+wait(2)
+click(Location(752, 218)) #click en el campo del nombre para seleccionar 
+wait(0.5)
+type("COST CENTERS._")
+wait(0.5)
+rightClick(Location(738, 216))#click derecho para pegar
+wait (2)
+click(Location(685, 295)) #click izquierdo para pegar
+wait(1)
+click(Location(1269, 245)) #click en guardar 
+wait (3)
+rightClick(Location(1705, 306)) #hace click derecho en una casilla en blanco para copiar
+wait(2)
+click(Location(1597, 360)) #ejecuta el click en la casilla en blanco para copiar 
+wait(0.5)
+#-----------------------------------------------------------------------------------------------------------------------------------
+#4
+#-----------------------------------------------------------------------------------------------------------------------------------
+Location(455, 282)
+wait(0.2)
+click(Location(457, 283)) #click en el logo de filtar
+wait(1)
+click(Location(205, 671)) #localiza y deselecciona el filtro marcado con check
+wait(1)
+click(Location(450, 672)) #baja 1 click scrolldown
+wait(1)
+click(Location(203, 667)) #localiza el sigiente cost center a filtar
+wait(1)
+click(Location(316, 720)) #acepta los cambios en el filtro
+wait(2)
+rightClick(Location(401, 308)) #click derecho para copiar el campo de cost center
+wait(2)
+click(Location(482, 355)) #click izquierdo para copiar el cost center
+wait(2)
+click(Location(38, 63)) #hace click en File
+wait(2)
+click(Location(59, 283)) #click en Save As
+wait(2)
+click(Location(752, 218)) #click en el campo del nombre para seleccionar 
+wait(0.5)
+type("COST CENTERS._")
+wait(0.5)
+rightClick(Location(738, 216))#click derecho para pegar
+wait (2)
+click(Location(685, 295)) #click izquierdo para pegar
+wait(1)
+click(Location(1269, 245)) #click en guardar 
+wait (3)
+rightClick(Location(1705, 306)) #hace click derecho en una casilla en blanco para copiar
+wait(2)
+click(Location(1597, 360)) #ejecuta el click en la casilla en blanco para copiar 
+wait(0.5)
+#-----------------------------------------------------------------------------------------------------------------------------------
+#5
+#-----------------------------------------------------------------------------------------------------------------------------------
